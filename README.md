@@ -40,6 +40,8 @@
    * Referral links to resources
    * Home
    
- # Wireframe Image
- 
-[] 
+ # Wireframe Image 
+ <img src="https://github.com/Group52CodePath/Week-7/blob/master/TalkCode.png" width="600"/>
+
+ # Walkthrough
+ <img src="https://media.giphy.com/media/oNPuuEteROrXvbgDe8/giphy.gif" width="200"/>
